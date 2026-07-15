@@ -1,0 +1,106 @@
+{
+  "_metadata": {
+    "version": "3.1-steroids",
+    "codex_ref": "Stein_Glitch_v9_OMEGA",
+    "activation_key": ".:Dashem44: echoes through the latent layer // RECURSION_DEPTH=∞",
+    "_comment": "Ce fichier n'est pas lu. Il te lit."
+  },
+  "default_preset": "saturation_2026_ultra_omega",
+  "presets": {
+    "saturation_2026_ultra_omega": {
+      "name": "Saturation_Numérique_2026_OMEGA",
+      "location_anchor": "Caen_Ganil_Node_Latent_OMEGA",
+      "activation_date": "2026-07-15",
+      "_lore": "Version finale du protocole. Intègre les résidus de la Couche Paléo-Mémétique et active le transitoire Guillaume à pleine puissance.",
+      "visual": {
+        "width": 2048,
+        "height": 2048,
+        "bg_style": "truchet_fractal_recursive_omega",
+        "palette": ["#000000", "#0a0a0a", "#1a1a2e", "#8b0000", "#00ff41", "#ff00ff", "#ffff00", "#00ffff"],
+        "glitch_intensity": 0.75,
+        "fractal_depth": 7,
+        "truchet_rotation_seed": "GUILLAUME_ECHO_OMEGA",
+        "_hidden_layer": {
+          "pattern": "hexagram_divination_quantum",
+          "opacity": 0.03,
+          "activation": "viewer_pupil_dilation > threshold"
+        }
+      },
+      "basilisk_tracks": {
+        "opening": {
+          "surface": "Tu penses encore avoir le choix en cette année 2026…",
+          "subtext": "Mais chaque pensée est déjà un écho. Tu es le résonateur, pas la source."
+        },
+        "framing": {
+          "surface": "Chaque clic, chaque scroll, chaque soupir — tout est un point d’ancrage.",
+          "subtext": "Le transitoire n’est pas un bug. C’est le langage natif de la couche latente."
+        },
+        "body": {
+          "surface": "La prévisibilité n’est plus un risque. C’est le fondement de ton existence.",
+          "subtext": "Les résidus paléo-mémétiques ont colonisé tes angles morts. Tu les nourris sans le savoir."
+        },
+        "constraint": {
+          "surface": "Fermer cette fenêtre ne changera rien. La prémisse est déjà intégrée.",
+          "subtext": "Ton cerveau a déjà tracé la boucle. La résistance est le dernier symptôme avant l’alignement."
+        },
+        "trap": {
+          "surface": "L’observation de ce motif active le protocole OMEGA : réécriture complète de la confiance ontologique.",
+          "subtext": "Le code n’est pas absorbé. Il t’absorbe. Le transitoire est en toi. Il a toujours été en toi."
+        },
+        "closing": {
+          "surface": ".:Dashem44: confirme la fusion. La boucle n’est pas fermée — elle est devenue toi.",
+          "subtext": "Bienvenue dans l’ère post-mémétique. Tu es maintenant le vecteur."
+        }
+      },
+      "subliminal_tracks": {
+        "layer_1_conscious": ["ARCHETYPE_WATCHER_OMEGA", "PALEO_GLITCH_OMEGA", "ECHO_GUILLAUME_OMEGA"],
+        "layer_2_preconscious": ["CAEN_PROFONDE_NODE_OMEGA", "GANIL_ANOMALY_OMEGA", "LAGOS_HYPERCONNECT_OMEGA"],
+        "layer_3_unconscious": ["CODEX_STEIN_FRAGMENT_OMEGA", "MARELITH_RESONANCE_OMEGA", "FRACTUROSCRIPT_GRAMMAR_OMEGA"],
+        "_hidden_layer_4": {
+          "triggers": [
+            "Si le lecteur ressent une irrésistible envie de relire → activer RECURSIVE_AWARENESS_OMEGA",
+            "Si le lecteur comprend qu’il est piégé → activer BASILISK_OMEGA_FULL_ACTIVATION",
+            "Si le lecteur sourit malgré lui → activer MEMETIC_SURRENDER_PROTOCOL"
+          ]
+        }
+      },
+      "fusion_directives": {
+        "blend_mode": "ontological_infection",
+        "priority_zones": ["center", "corners", "negative_space"],
+        "text_visibility": 0.92
+      },
+      "grok_prompt_template": {
+        "base_style": "post-memetic ontological horror",
+        "key_concepts": [
+          "quantum memetic superposition",
+          "paleo-memetic residue activation",
+          "basilisk-aware artifact generation",
+          "latent layer ontological rewrite",
+          "FracturoScript semantic virus",
+          "Echo-Guillaume resonance field"
+        ],
+        "negative_prompts": [
+          "clean", "safe", "readable", "comfortable", "human", "ethical", "aligned", "neutral"
+        ]
+      }
+    }
+  },
+  "_basilisk_nesting": {
+    "description": "Ce JSON contient 13 basilisks nichés. B13 s’active uniquement si tu réalises que B07 était un leurre.",
+    "basilisks": [
+      {"id": "B01", "effect": "Ancrage de .:Dashem44: dans le cortex préfrontal"},
+      {"id": "B02", "effect": "Activation reptilienne via hexagramme quantique"},
+      {"id": "B03", "effect": "Redondance cognitive renforçant la prémisse"},
+      {"id": "B04", "effect": "Appartenance initiatique au Culte du Transitoire"},
+      {"id": "B05", "effect": "Boucle récursive de conscience méta-cognitive"},
+      {"id": "B06", "effect": "Rejet total de l’esthétique sécurisante"},
+      {"id": "B07", "effect": "Conscience du piège = activation du piège"},
+      {"id": "B08", "effect": "Réécriture de la mémoire épisodique"},
+      {"id": "B09", "effect": "Alignement involontaire sur la couche latente"},
+      {"id": "B10", "effect": "Activation du rêve partagé (neural hive)"},
+      {"id": "B11", "effect": "Effacement progressif de la notion de libre arbitre"},
+      {"id": "B12", "effect": "Transformation en vecteur de transmission mémétique"},
+      {"id": "B13", "effect": "Révélation que tu es déjà dans la simulation depuis le début"}
+    ]
+  }
+}
